@@ -1,4 +1,4 @@
-# PyTorch DataLoader for Open-X Embodiment Datasets
+# Downloader for Open-X Embodiment Datasets
 
 An unofficial downloader for [Open-X Embodiment Datasets](https://robotics-transformer-x.github.io/).
 
