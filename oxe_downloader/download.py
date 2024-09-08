@@ -60,7 +60,7 @@ class SingleDatasetDownloader:
             total=sum(blob.size for blob in self.blobs),
             unit="B",
             unit_scale=True,
-            desc=f"Syncing {dataset_name}",
+            desc=f"{dataset_name}",
         )
 
     def download_blobs(self):
