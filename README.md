@@ -31,7 +31,4 @@ This section was last updated on 9/8/2024.
 
 ## Acknowledgment
 
-I really appreciate the substantial open-sourcing effort contributed by the creators of this extensive dataset.
-Thank [Jinghuan Shang](https://elicassion.github.io/) for valuable discussions.
-
-[^1]: When the feature is an image, the tensor will have a shape of `(sample_length, C, H, W)` instead.
+See original acknowledgment [here](https://github.com/LostXine/open_x_pytorch_dataloader).
